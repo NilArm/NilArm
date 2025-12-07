@@ -4,6 +4,7 @@
 
 🚀 Backend Engineer with **3+ years of experience** building scalable, high-performance systems using **Java and Spring Boot**.
 💡 Passionate about **clean architecture, microservices, system design, and performance optimization**.
+
 📍 India
 
 ---
@@ -99,8 +100,11 @@ Secure authentication system using Spring Security & JWT.
 ## 📈 GitHub Stats
 
 ```
-https://github-readme-stats.vercel.app/api?username=NilArm&show_icons=true
-```
+https://github-readme-stats.vercel.app/api?username=NilArm&show_icons=true## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NilArm&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NilArm&theme=tokyonight)```
 
 ```
 https://github-readme-streak-stats.herokuapp.com?user=NilArm
